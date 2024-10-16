@@ -5,3 +5,7 @@ const record = [
     { year: "2014", result: "N/A" },
   ];
   
+  function superbowlWin(record) {
+    
+  }
+  
